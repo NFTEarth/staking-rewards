@@ -12,7 +12,7 @@ const Home: NextPage = () => {
     return (
       <Container maxW={"1200px"}>
         <Flex h={"50vh"} justifyContent={"center"} alignItems={"center"}>
-          <Heading>Please Connect a Wallet</Heading>
+          <Heading>Connect Wallet</Heading>
         </Flex>
       </Container>
     )
